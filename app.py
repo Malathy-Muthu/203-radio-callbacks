@@ -10,7 +10,7 @@ import plotly.graph_objs as go
 myheading1='Data Engineers / Data Analysts / Data Scientists'
 tabtitle = 'DataWorld'
 list_of_options=['We Don’t Need Data Scientists, We Need Data Engineers', 'Statistics and DataScience', 'Data Analyst', 'When you hire a Data Scientist']
-list_of_images=['DE.png', 'DS.png', 'DA.jpg', 'IDS.png','Front.png']
+list_of_images=['DE.png', 'DS.png', 'DA.png', 'IDS.png','Front.png']
 sourceurl = 'https://levelup.gitconnected.com/6-hilarious-programmers-data-scientists-jokes-to-kick-start-2021-187f86dd6a4c'
 githublink = 'https://github.com/Malathy-Muthu/203-radio-callbacks'
 
